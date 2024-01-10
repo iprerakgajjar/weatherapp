@@ -1,1 +1,1 @@
-# weatherapp-by-prerak
+This is weather app developed through react js 
